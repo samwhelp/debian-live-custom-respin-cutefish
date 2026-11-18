@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Exec=cutefish-logout.sh
+TryExec=qdbus6
+Icon=xfsm-logout
+Categories=System;Utility;
+Keywords=desktop;window;toggle;
+
+Name=Logout
+GenericName=Logout
+Comment=Logout System
+
+Name[zh_TW]=登出
+GenericName[zh_TW]=Logout
+Comment[zh_TW]=登出系統
